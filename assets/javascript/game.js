@@ -1,4 +1,16 @@
-var guessedAnswer = ["Tron", "Alien", "Footloose", "Highlander", "Spaceballs", "Willow", "Topgun", "Caddyshack", "Beetlejuice", "Commando", "Akira"]
+var guessedAnswer = [
+    "Tron", 
+    "Alien", 
+    "Footloose", 
+    "Highlander", 
+    "Spaceballs", 
+    "Willow", 
+    "Topgun", 
+    "Caddyshack", 
+    "Beetlejuice", 
+    "Commando", 
+    "Akira"
+]
 
 var numGuessed;
 var lettersGuessed = [];
